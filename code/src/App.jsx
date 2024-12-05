@@ -186,10 +186,10 @@ const Link = ({ text, link, icontype }) => {
 function App() {
   return (
     <div className=" app min-h-[110vh] flex justify-center item relative overflow-x-hidden bg-[#004643] ">
-      <div className="w-[1px] h-full absolute top-0 right-10 bg-orange-200"></div>{" "}
+      <div className="w-[1px] h-full absolute top-0 right-3 bg-orange-200"></div>{" "}
       {/*This is a line*/}
       <div className="w-screen flex flex-col justify-center items-center relative overflow-clip mt-3">
-        <div className="w-[1px] h-full absolute top-[340px] left-10 bg-orange-200"></div>{" "}
+        <div className="w-[1px] h-full absolute top-[340px] left-3 bg-orange-200"></div>{" "}
         {/*This is a line*/}
         <div className="absolute top-2 text-lg left-[26px] text-orange-200  ">
           <p className=" " style={{ writingMode: "vertical-rl" }}>

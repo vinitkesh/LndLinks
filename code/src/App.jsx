@@ -227,17 +227,17 @@ const data = [
   },
   {
     text: "@donttellthewarden",
-    link: "https://www.lndnitc.org",
+    link: "https://www.instagram.com/donttellthewarden/",
     icontype: "insta",
   },
   {
     text: "@sahiti_nitc",
-    link: "https://www.lndnitc.org",
+    link: "https://www.instagram.com/sahiti_nitc/",
     icontype: "insta",
   },
   {
     text: "@humansofnitc",
-    link: "https://www.lndnitc.org",
+    link: "https://www.instagram.com/humansofnitc/",
     icontype: "insta",
   },
   {

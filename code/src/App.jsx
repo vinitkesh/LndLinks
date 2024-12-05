@@ -189,10 +189,10 @@ function App() {
       <div className="w-[1px] h-full absolute top-0 right-3 bg-orange-200"></div>{" "}
       {/*This is a line*/}
       <div className="w-screen flex flex-col justify-center items-center relative overflow-clip mt-3">
-        <div className="w-[1px] h-full absolute top-[340px] left-3 bg-orange-200"></div>{" "}
+        <div className="w-[1px] h-full absolute top-[400px] left-3 bg-orange-200"></div>{" "}
         {/*This is a line*/}
-        <div className="absolute top-2 text-lg left-[26px] text-orange-200  ">
-          <p className=" " style={{ writingMode: "vertical-rl" }}>
+        <div className="absolute top-2 text-lg left-[2px] text-orange-200  ">
+          <p className=" " style={{ writingMode: "verti cal-rl" }}>
             The Literary and Deabting Club NITC
           </p>
         </div>

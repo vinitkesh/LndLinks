@@ -237,7 +237,7 @@ const data = [
   },
   {
     text: "@humansofnitc",
-    link: "https://www.instagram.com/humansofnitc/",
+    link: "https://www.instagram.com/humansofnitcalicut/",
     icontype: "insta",
   },
   {
